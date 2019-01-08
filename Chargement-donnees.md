@@ -1,1 +1,0 @@
-See la sections **5 Chargement des données** et **5.1 Types de données** dans la [[ALA Key Technical Documentation (français) | https://www.gbif.org/document/82848/ala-key-technical-documentation-french]]
