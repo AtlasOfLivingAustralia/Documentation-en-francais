@@ -1,0 +1,1 @@
+Voir la section 2.6 “Data Hub” sur le [[Documentation Technique de base ALA (français) |https://www.gbif.org/document/82848/ala-key-technical-documentation-french]]

@@ -1,0 +1,1 @@
+Toutes les informations concernant l'API d'ALA se trouvent à l'adresse suivante : [API docs du portail ALA](http://api.ala.org.au).
